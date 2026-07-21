@@ -1,0 +1,6 @@
+framework module UBiddingYoushiAdapter {
+  umbrella header "UBiddingYoushiAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
